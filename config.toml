@@ -4,7 +4,7 @@ title = 'Techie Adventures of Manny Evangelista'
 theme = "m10c"
 
 [params]
-  author = "Manny Evangelista
+  author = "Manny Evangelista"
   description = "A blog about all things technical."
 
   [[params.social]]
