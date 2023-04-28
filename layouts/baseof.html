@@ -24,7 +24,7 @@
       <nav class="app-header-menu">
         {{- range $key, $item := . }}
           {{- if ne $key 0 }}
-            <br> <!--{{ $.Site.Params.menu_item_separator | default " - " | safeHTML }}-->
+            {{ $.Site.Params.menu_item_separator | default " - " | safeHTML }}
           {{ end }}
           <a class="app-header-menu-item" href="{{ $item.URL }}">{{ $item.Name }}</a>
         {{- end }}

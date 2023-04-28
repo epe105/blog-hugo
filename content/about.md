@@ -2,7 +2,7 @@
 title = "About"
 +++
 
-![Image](/images/manny.png)
+![Image](../images/manny.png)
 
 
 
