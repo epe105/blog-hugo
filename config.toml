@@ -2,7 +2,6 @@ baseURL = 'https://epe105.github.io/'
 languageCode = 'en-us'
 title = "Manny Evangelista"
 theme = "m10c"
-menu_item_separator = "-"
 
 
 [params]
