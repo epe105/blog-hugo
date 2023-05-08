@@ -59,4 +59,8 @@ In addition to these three types of SSL certificates, there are also client cert
         - kubelet-client.crt
         - kubelet-client.key
 
+## Certificate Authroity certs
+    - ca.crt
+    - ca.key
+
 In summary, SSL certificates are an essential component of securing a Kubernetes cluster. To configure SSL certificates for a Kubernetes cluster, you need to create cluster-level, node-level, and service-level certificates, as well as client certificates for authentication. Properly configuring SSL certificates ensures that communication between nodes, services, and clients is secure and protected from malicious attacks.
