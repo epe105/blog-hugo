@@ -20,5 +20,7 @@ Chang pick to squash and wq!  Then do a force push
 $ git push -f
 
 ```
-
-
+# Rebase from local
+```bash
+$ git pull --rebase
+```
